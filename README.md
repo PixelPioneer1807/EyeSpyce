@@ -2,4 +2,5 @@
 This is my DTI project repository.
 <br>
 This is my first git repository.
+Hello I'm learning git and github
 
